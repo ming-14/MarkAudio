@@ -33,10 +33,10 @@
 **MarkAudio**  
 ├─main.py 主程序  
 └─example 示例，实际执行时不需要该文件夹  
-    ├─video  
-    ├─work  
-    ├─work2  
-    └─work3
+	├─video  
+	├─work  
+	├─work2  
+	└─work3
 
 
 
