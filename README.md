@@ -29,10 +29,10 @@
 **MarkAudio**  
 ├─main.py 主程序  
 └─example 示例，实际执行时不需要该文件夹  
-$~~~~$├─video  
-$~~~~$├─work  
-$~~~~$├─work2  
-$~~~~$└─work3
+    ├─video  
+    ├─work  
+    ├─work2  
+    └─work3
 
 
 
@@ -40,9 +40,9 @@ $~~~~$└─work3
 
 **main.py**  
 核心函数：**executeProgramInDirectory**(directory, temp1, temp2, temp3, output)  
-function: 遍布目录$~~~~$1.合成输出标题（文件名）朗读音频；  
-$~~~~~~~~~~~~~~~~~~~~~~$2.将指定视频转音频；  
-$~~~~~~~~~~~~~~~~~~~~~~$3.合并音频文件（标题音频+空音频+视频音频）；  
+function: 遍布目录  1.合成输出标题（文件名）朗读音频；  
+                   2.将指定视频转音频；  
+                   3.合并音频文件（标题音频+空音频+视频音频）；  
 directory: 指定视频目录  
 temp1: 标题朗读音频临时存放目录  
 temp2: 视频转音频临时存放目录  
